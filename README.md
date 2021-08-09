@@ -1,6 +1,9 @@
 # ejercicio1_platzi
- Ejercicio 1 - Escuela de desarrollo Web  - Platzi
-Es una pagina web a la cual el usuario ingresa su peso y la pagina calcula y retorna como resultado cual seria su peso en otros planetas como marte y jupiter.
+Ejercicio 1 - Curso básico de programación - Platzi.
 
-Exercise 1 - School of web development - Platzi
-It is a web page to which the user enters his weight and the page calculates and returns as a result what his weight would be on other planets such as Mars and Jupiter
+Es un pagina web donde el usuario ingresa su peso, la pagina calcula y retorna cuanto seria su peso en otro planeta.
+
+Exercise 1 - basic programming course - Platzi.
+
+It is a web page where the user enters his weight, the page calculates and returns how much his weight would be on another planet.
+
